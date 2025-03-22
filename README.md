@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shagun Saini</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="![Uploading readme imgg(2).gif…]()
-">
+<img align="right" alt="coding" width="450" src="https://github.com/user-attachments/assets/ca20e614-a212-41f7-955c-771fa7c1aa3e">
 
 - 📫 How to reach me <a href="mailto:sainishagun001@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/shagunsaini13">LinkedIn</a>
  <!--**Email[sainishagun001@gmail.com]|LinkedIn[www.linkedin.com/in/shagunsaini13]**-->
